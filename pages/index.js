@@ -21,7 +21,7 @@ export default function Home({ allPostsData }) {
 				<title>{siteTitle}</title>
 			</Head>
 			<section className={utilStyles.headingMd}>
-				<p>Me sucks.</p>
+				<p>Me suck. But now I kinda understand why I suck.</p>
 				<p>
 					(This is a sample website - you’ll be building a site like
 					this on{" "}
